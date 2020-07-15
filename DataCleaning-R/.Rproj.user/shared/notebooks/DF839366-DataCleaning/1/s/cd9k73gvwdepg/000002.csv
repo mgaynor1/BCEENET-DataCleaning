@@ -1,0 +1,3 @@
+"0","df <- df %>%"
+"0","      filter(!is.na(long)) %>%"
+"0","      filter(!is.na(lat))"

@@ -1,0 +1,4 @@
+"0","df <- df %>%"
+"0","       dplyr::mutate(year = lubridate::year(date),"
+"0","                     month = lubridate::month(date),"
+"0","                     day = lubridate::day(date))"

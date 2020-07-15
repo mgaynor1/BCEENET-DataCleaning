@@ -1,0 +1,2 @@
+"0","df$lat <- round(df$lat, digits = 2)"
+"0","df$long <- round(df$long, digits = 2)"

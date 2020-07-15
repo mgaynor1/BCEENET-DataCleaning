@@ -1,0 +1,4 @@
+"0","df <- rawdf %>%"
+"0","      filter(dwc.scientificName %in% acceptednames) %>%"
+"0","      filter(!is.na(dwc.scientificName))  %>%"
+"0","      mutate(name = ""Shortia galacifolia"")"

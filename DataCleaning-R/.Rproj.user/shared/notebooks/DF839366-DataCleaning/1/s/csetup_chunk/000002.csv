@@ -1,0 +1,8 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"2","Warning message:
+"
+"2","In eval(parse_only(paste(""alist("", quote_label(params), "")""))) :"
+"2","
+ "
+"2"," internal error -3 in R_decompress1
+"

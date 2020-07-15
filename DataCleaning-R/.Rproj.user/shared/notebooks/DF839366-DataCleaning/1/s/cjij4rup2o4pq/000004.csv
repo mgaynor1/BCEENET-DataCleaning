@@ -1,0 +1,8 @@
+"0","df <- cc_outl(df,"
+"0","                   lon = ""long"","
+"0","                   lat = ""lat"","
+"0","                   species = ""name"")"
+"2","Testing geographic outliers
+"
+"2","Removed 1 records.
+"

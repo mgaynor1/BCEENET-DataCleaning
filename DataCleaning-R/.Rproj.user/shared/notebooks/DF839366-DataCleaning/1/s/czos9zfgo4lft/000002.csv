@@ -1,0 +1,3 @@
+"0","write.csv(df, "
+"0","          ""data/cleaned/Shortia_galacifolia_062620-cleaned.csv"", "
+"0","          row.names = FALSE)"
