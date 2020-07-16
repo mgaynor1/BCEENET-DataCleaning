@@ -16,5 +16,5 @@ Upon completion of this module, each student should be able to:
 
 
 
-Cite this work:    
+**Cite this work:**    
 Gaynor, M. (2020). Cleaning Biodiversity Data: A Botanical Example Using Excel or RStudio. Biodiversity Literacy in Undergraduate Education, QUBES Educational Resources. [doi:10.25334/DRGD-F069](https://qubeshub.org/publications/1964/1).  
